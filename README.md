@@ -1,6 +1,6 @@
 ## Hello, There! 👋
 
-I'm Sahan Induvara, a 17-year-old passionate developer from Mata, Sri Lanka. Currently, I'm delving into the world of machine learning and fine-tuning large language models like GPT-3 for Sinhala.
+I'm Sahan Induvara, a 17-year-old passionate developer from Mata, Sri Lanka. Currently, I'm delving into the world of machine learning and fine-tuning large language models like LLAma 2.
 
 ## About Me
 
