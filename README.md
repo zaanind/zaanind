@@ -13,7 +13,7 @@ I'm Sahan Induvara, a 17-year-old passionate developer from Mata, Sri Lanka. Cur
 
 
 ## Current Projects
-
+- English to Sinhala NMT.
 - Finetuning LLama 2 7b for Sinhala language.
 
 ## Let's Connect!
