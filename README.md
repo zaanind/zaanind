@@ -1,6 +1,6 @@
 ## Hello, There! 👋
 
-I'm Sahan Induvara, a 17-year-old passionate developer from Mata, Sri Lanka. Currently, I'm delving into the world of machine learning and fine-tuning large language models like LLAma 2.
+I'm Sahan Induvara, a 17-year-old passionate developer from Matara, Sri Lanka. Currently, I'm delving into the world of machine learning and fine-tuning large language models like LLAma 2.
 
 ## About Me
 
