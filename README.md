@@ -9,7 +9,7 @@ I'm Sahan Induvara, a 18-year-old passionate developer from Matara, Sri Lanka. C
 - 🚀 I'm actively involved in the Hugging Face community. Check out my [Hugging Face profile](https://hf.co/zaanind).
 - 💬 Ask me about web development, machine learning, or anything tech-related!
 - 📧 Reach out to me at [zaanind@gmail.com](mailto:zaanind@gmail.com).
-- 🎯 Connect with me: [Facebook](https://fb.com/zaanind) | [Messenger](https://m.me/zaanind)
+- 🎯 Connect with me: [Facebook](https://fb.com/zaanind) | [Messenger](https://m.me/zaanind) | [Telegram](https://t.me/zaanind)
 
 
 ## Current Projects
