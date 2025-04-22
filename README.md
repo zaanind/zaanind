@@ -1,10 +1,10 @@
 ## Hello, There! 👋
 
-I'm Sahan Induvara, a 18-year-old passionate developer from Matara, Sri Lanka. Currently, I'm delving into the world of machine learning and fine-tuning large language models like LLAma 2.
+I'm Sahan Induvara, a 17-year-old passionate developer from Matara, Sri Lanka. Currently, I'm delving into the world of machine learning and fine-tuning large language models like LLAma 2.
 
 ## About Me
 
-- 🔭 I'm proficient in PHP, Python (especially with TensorFlow and PyTorch), Node.js, and web development.
+- 🔭 I'm proficient in PHP, Python (especially with TensorFlow and PyTorch), and web development.
 - 🌱 I'm currently learning TensorFlow, PyTorch, and Hugging Face Transformers.
 - 🚀 I'm actively involved in the Hugging Face community. Check out my [Hugging Face profile](https://hf.co/zaanind).
 - 💬 Ask me about web development, machine learning, or anything tech-related!
@@ -18,7 +18,6 @@ I'm Sahan Induvara, a 18-year-old passionate developer from Matara, Sri Lanka. C
 
 ## Let's Connect!
 
-- 🌐 [Visit my website](https://zaanind.fanclub.rocks/)
 - 🤖 [Join the conversation on Messenger](https://m.me/zaanind)
 -  🤖 [Join the conversation on Telegram](https://t.me/zaanind)
 - 📱 [Connect on Facebook](https://fb.com/zaanind)
